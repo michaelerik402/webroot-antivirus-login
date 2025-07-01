@@ -2,6 +2,7 @@ How to Login Webroot Antivirus?
 ==============================
 
 Webroot Antivirus is a lightweight and cloud-based security solution designed to protect your devices from malware, viruses, phishing attempts, and other online threats. While installing the antivirus software is essential, equally important is knowing how to log into the Webroot interface to manage your settings, view scan results, and ensure your protection is active. Whether you’re using it on a PC, Mac, or mobile device, logging in is a key part of accessing the full features and ensuring your software is properly licensed and configured.
+
 .. image:: login.gif
    :alt: My Project Logo
    :width: 400px
